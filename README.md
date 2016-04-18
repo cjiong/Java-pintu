@@ -5,3 +5,6 @@
 
 拼图游戏是继承自Applet类的小程序，并引入awt绘图包，绘制界面和图片，实现Runnable接口和用Thread类来实现计时的功能，实现 MouseListener和KeyListener接口和引入事件处理机制，实现对鼠标事件和键盘事件的监听，以实现移动拼图块，切换图片，预览全图等功能。
 
+![](https://github.com/cjiong/Java-pintu/raw/master/audi.jpg)
+
+![](https://github.com/cjiong/Java-pintu/raw/master/audi1.jpg)
